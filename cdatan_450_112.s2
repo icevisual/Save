@@ -1,46 +1,6 @@
+冰结猎犬
 
-
-
-
-
-
-
-
-
-
-神风·小鬼
-
-yeek
-
-
-
-
-
-
-
-见习盗贼
-
-juere
-
-
-
-
-
-
-
-蜗牛
-
-snail
-tourist
-
-
-
-
-
-
-杀人松鼠
-
-rabbit
+dog
 predator
 
 
@@ -48,7 +8,17 @@ predator
 
 
 
-小恶魔
+白金铃
+
+metal
+
+
+
+
+
+
+
+冥界的使者
 
 imp
 
@@ -58,29 +28,9 @@ imp
 
 
 
-老鼠
+狗头人
 
-rat
-
-
-
-
-
-
-
-地精魔法师
-
-goblin
-wizard
-
-
-
-
-
-
-少女 纳阿茨塔
-
-roran
+kobolt
 warrior
 
 
@@ -88,9 +38,79 @@ warrior
 
 
 
-野兔
+鸡
 
-rabbit
+bird
+
+
+
+
+
+
+
+红胡蜂
+
+wasp
+
+
+
+
+
+
+
+火焰猎犬
+
+dog
+predator
+
+
+
+
+
+
+地精萨满
+
+goblin
+warmage
+
+
+
+
+
+
+牛 阿伊莱
+
+minotaur
+
+
+
+
+
+
+
+甲壳虫
+
+beetle
+predator
+
+
+
+
+
+
+蘑菇
+
+mushroom
+
+
+
+
+
+
+
+羊
+
+sheep
 tourist
 
 
@@ -98,9 +118,19 @@ tourist
 
 
 
-狗头人
+胡蜂
 
-kobolt
+wasp
+
+
+
+
+
+
+
+骸骨战士
+
+skeleton
 warrior
 
 
@@ -118,86 +148,6 @@ predator
 
 
 
-投石战士
-
-zanan
-thief
-
-
-
-
-
-
-幽灵盔甲
-
-armor
-warrior
-
-
-
-
-
-
-白衣天使 诺恩科
-
-zanan
-priest
-
-
-
-
-
-
-军用波球
-
-slime
-gunner
-
-
-
-
-
-
-史莱姆
-
-slime
-predator
-
-
-
-
-
-
-杀人松鼠
-
-rabbit
-predator
-
-
-
-
-
-
-鬼天竺鼠
-
-rat
-tourist
-
-
-
-
-
-
-史莱姆
-
-slime
-predator
-
-
-
-
-
-
 亡灵
 
 ghost
@@ -208,47 +158,7 @@ ghost
 
 
 
-杀人松鼠
-
-rabbit
-predator
-
-
-
-
-
-
-兽人
-
-orc
-
-
-
-
-
-
-
-黑寡妇蜘蛛
-
-spider
-
-
-
-
-
-
-
-孢子蘑菇
-
-mushroom
-
-
-
-
-
-
-
-白衣天使 乌尔巴尔古
+白衣天使 萨伊哈尔德
 
 zanan
 priest
@@ -258,19 +168,19 @@ priest
 
 
 
-盗贼团术士 拉伊奥
+残兵
 
-juere
-priest
-
-
+norland
+warrior
 
 
 
 
-『大爹地』
 
-machinegod
+
+耶鲁士机械兵
+
+yerles
 gunner
 
 
@@ -278,7 +188,37 @@ gunner
 
 
 
-冰结猎犬
+吸血蝙蝠
+
+bat
+predator
+
+
+
+
+
+
+赤之洗礼者
+
+ghost
+wizard
+
+
+
+
+
+
+牛 阿尔莱尔
+
+minotaur
+
+
+
+
+
+
+
+闪电猎犬
 
 dog
 predator
@@ -288,259 +228,319 @@ predator
 
 
 
+吸血蝙蝠
 
+bat
+predator
 
 
 
 
 
 
+野生马 西摩坦恩
 
+horse
+predator
 
 
 
 
 
 
+黑暗猎犬
 
+dog
+predator
 
 
 
 
 
 
+盗贼团杀手 弗莱伊鲁伊恩
 
+juere
+gunner
 
 
 
 
 
 
+＜士兵＞
 
+piece
+warrior
 
 
 
 
 
 
+残兵
 
+norland
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+骸骨战士
 
+skeleton
+warrior
 
 
 
 
 
 
+蜥蜴人
 
+lizardman
+warrior
 
 
 
 
 
 
+混沌之手
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+hand
 
 
 
