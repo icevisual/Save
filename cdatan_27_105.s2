@@ -1,16 +1,6 @@
-蜈蚣
+甲壳虫
 
-worm
-
-
-
-
-
-
-
-棕熊 罗西莱茨塔
-
-bear
+beetle
 predator
 
 
@@ -18,99 +8,9 @@ predator
 
 
 
-蜈蚣
+耶鲁士机械兵
 
-worm
-
-
-
-
-
-
-
-野兔
-
-rabbit
-tourist
-
-
-
-
-
-
-残兵
-
-norland
-warrior
-
-
-
-
-
-
-红胡蜂
-
-wasp
-
-
-
-
-
-
-
-巨大松鼠
-
-rabbit
-predator
-
-
-
-
-
-
-残兵
-
-norland
-warrior
-
-
-
-
-
-
-飞蛙
-
-frog
-tourist
-
-
-
-
-
-
-小鬼战士
-
-yeek
-
-
-
-
-
-
-
-饿鬼
-
-ghost
-
-
-
-
-
-
-
-朋克
-
-norland
+yerles
 gunner
 
 
@@ -118,6 +18,16 @@ gunner
 
 
 
+小鬼射手
+
+yeek
+archer
+
+
+
+
+
+
 野兔
 
 rabbit
@@ -128,120 +38,20 @@ tourist
 
 
 
-飞蛙
+曼德拉草
 
-frog
-tourist
+mandrake
 
 
 
 
 
 
-巨大松鼠
 
-rabbit
-predator
+艾莱亚族魔法师
 
-
-
-
-
-
-蜈蚣
-
-worm
-
-
-
-
-
-
-
-亡者之手
-
-hand
-
-
-
-
-
-
-
-猫 基西艾尔
-
-cat
-predator
-
-
-
-
-
-
-红波球
-
-slime
-
-
-
-
-
-
-
-狗头人
-
-kobolt
-warrior
-
-
-
-
-
-
-棕熊 阿弗基苏
-
-bear
-predator
-
-
-
-
-
-
-小鬼
-
-yeek
-
-
-
-
-
-
-
-猫 纳迪伊苏
-
-cat
-predator
-
-
-
-
-
-
-棕熊 拉诺尔特
-
-bear
-predator
-
-
-
-
-
-
-猫 博尔罗茨库
-
-cat
-predator
+elea
+wizard
 
 
 
@@ -268,20 +78,50 @@ worm
 
 
 
-亡者之手
+刀锋机兵
 
-hand
-
-
+machine
 
 
 
 
 
-胡蜂
 
-wasp
 
+恶棍 西弗艾苏
+
+zanan
+
+
+
+
+
+
+
+刺猬
+
+rat
+
+
+
+
+
+
+
+少女 科摩茨库
+
+roran
+warrior
+
+
+
+
+
+
+耶鲁士机械兵
+
+yerles
+gunner
 
 
 
@@ -298,39 +138,59 @@ tourist
 
 
 
+红波球
+
+slime
+
+
+
+
+
+
+
+强盗
+
+juere
+thief
+
+
+
+
+
+
+少女 阿拉萨米尔
+
+roran
+warrior
+
+
+
+
+
+
+耶鲁士机械兵
+
+yerles
+gunner
+
+
+
+
+
+
+少女 赫罗茨塔
+
+roran
+warrior
+
+
+
+
+
+
 刀锋机兵
 
 machine
-
-
-
-
-
-
-
-蜗牛
-
-snail
-tourist
-
-
-
-
-
-
-蜈蚣
-
-worm
-
-
-
-
-
-
-
-胡蜂
-
-wasp
 
 
 
@@ -348,6 +208,26 @@ warrior
 
 
 
+狗 罗西罗纳
+
+dog
+predator
+
+
+
+
+
+
+刀锋机兵
+
+machine
+
+
+
+
+
+
+
 蝎子
 
 spider
@@ -358,29 +238,19 @@ spider
 
 
 
-蘑菇
+耶鲁士机械兵
 
-mushroom
-
-
-
-
-
-
-
-刺猬
-
-rat
+yerles
+gunner
 
 
 
 
 
 
+蝎子
 
-刺猬
-
-rat
+spider
 
 
 
@@ -388,10 +258,140 @@ rat
 
 
 
-猫 阿罗罗伊
+恶棍 内毕赫德
 
-cat
+zanan
+
+
+
+
+
+
+
+艾莱亚族战士
+
+elea
+warrior
+
+
+
+
+
+
+艾莱亚族魔法师
+
+elea
+wizard
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+效应蝴蝶
+
+beetle
+
+
+
+
+
+
+
+蜗牛
+
+snail
+tourist
+
+
+
+
+
+
+清扫机械 基兹
+
+behicle
 predator
+
+
+
+
+
+
+野兔
+
+rabbit
+tourist
+
+
+
+
+
+
+蜈蚣
+
+worm
+
+
+
+
+
+
+
+耶鲁士机械兵
+
+yerles
+gunner
+
+
+
+
+
+
+寄居蟹
+
+shell
+predator
+
+
+
+
+
+
+甲壳虫
+
+beetle
+predator
+
+
+
+
+
+
+残兵
+
+norland
+warrior
+
+
+
+
+
+
+漂浮之眼
+
+eye
+
 
 
 
