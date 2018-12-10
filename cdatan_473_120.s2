@@ -1,16 +1,6 @@
-兽人战士
+幻惑猎犬
 
-orc
-warrior
-
-
-
-
-
-
-巨大松鼠
-
-rabbit
+dog
 predator
 
 
@@ -18,129 +8,9 @@ predator
 
 
 
-低等木乃伊
+幻惑猎犬
 
-zombie
-
-
-
-
-
-
-
-艾莱亚族战士
-
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族战士
-
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族战士
-
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族魔法师
-
-elea
-wizard
-
-
-
-
-
-
-艾莱亚族魔法师
-
-elea
-wizard
-
-
-
-
-
-
-艾莱亚族魔法师
-
-elea
-wizard
-
-
-
-
-
-
-艾莱亚族战士
-
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族战士
-
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族魔法师
-
-elea
-wizard
-
-
-
-
-
-
-艾莱亚族战士
-
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族魔法师
-
-elea
-wizard
-
-
-
-
-
-
-狮子
-
-cat
+dog
 predator
 
 
@@ -148,9 +18,9 @@ predator
 
 
 
-狮子
+幻惑猎犬
 
-cat
+dog
 predator
 
 
@@ -158,9 +28,9 @@ predator
 
 
 
-暴食海狮
+幻惑猎犬
 
-largeanimal
+dog
 predator
 
 
@@ -168,30 +38,130 @@ predator
 
 
 
-发光的刺猬
+幻惑猎犬
 
-rat
-
-
-
-
-
-
-
-赤之洗礼者
-
-ghost
-wizard
-
-
-
-
-
-
-狮子
-
-cat
+dog
 predator
+
+
+
+
+
+
+幻惑猎犬
+
+dog
+predator
+
+
+
+
+
+
+幻惑猎犬
+
+dog
+predator
+
+
+
+
+
+
+幻惑猎犬
+
+dog
+predator
+
+
+
+
+
+
+幻惑猎犬
+
+dog
+predator
+
+
+
+
+
+
+幻惑猎犬
+
+dog
+predator
+
+
+
+
+
+
+幻惑猎犬
+
+dog
+predator
+
+
+
+
+
+
+幻惑猎犬
+
+dog
+predator
+
+
+
+
+
+
+幻惑猎犬
+
+dog
+predator
+
+
+
+
+
+
+＜骑士＞
+
+piece
+warrior
+
+
+
+
+
+
+灰熊
+
+bear
+predator
+
+
+
+
+
+
+＜士兵＞
+
+piece
+warrior
+
+
+
+
+
+
+炎之信仰者
+
+goblin
+warmage
 
 
 
@@ -208,7 +178,77 @@ worm
 
 
 
-食人花
+眼镜王蛇
+
+snake
+
+
+
+
+
+
+
+杀人犯之手
+
+hand
+warrior
+
+
+
+
+
+
+飞行·蚂蝗
+
+worm
+
+
+
+
+
+
+
+不净之瞳
+
+eye
+
+
+
+
+
+
+
+暗之传教士
+
+eulderna
+
+
+
+
+
+
+
+炎之信仰者
+
+goblin
+warmage
+
+
+
+
+
+
+猛毒猎犬
+
+dog
+predator
+
+
+
+
+
+
+南瓜怪物
 
 mandrake
 
@@ -218,19 +258,9 @@ mandrake
 
 
 
-石魔像
+巫妖
 
-golem
-
-
-
-
-
-
-
-＜主教＞
-
-piece
+lich
 wizard
 
 
@@ -238,19 +268,9 @@ wizard
 
 
 
-朱伊安剑斗士
+巫妖
 
-juere
-thief
-
-
-
-
-
-
-幻魔
-
-ghost
+lich
 wizard
 
 
@@ -258,19 +278,9 @@ wizard
 
 
 
-狮子
+古代棺材
 
-cat
-predator
-
-
-
-
-
-
-哈比女妖
-
-harpy
+zombie
 
 
 
@@ -278,20 +288,10 @@ harpy
 
 
 
-混沌之花
+火蟹
 
-mandrake
+shell
 
-
-
-
-
-
-
-暴食海狮
-
-largeanimal
-predator
 
 
 
