@@ -1,57 +1,37 @@
-低等木乃伊
+火焰树
 
-zombie
-
-
-
+ent
+predator
 
 
 
 
-伐楼拿
 
-asura
+
+眼镜蛇
+
+snake
+
+
+
+
+
+
+
+巫妖王
+
+lich
+wizard
+
+
+
+
+
+
+歌贡
+
+orc
 warrior
-
-
-
-
-
-
-骸骨狂战士
-
-skeleton
-warrior
-
-
-
-
-
-
-枪翻车鱼
-
-seamonster
-gunner
-
-
-
-
-
-
-混沌之手
-
-hand
-
-
-
-
-
-
-
-疯狂之眼
-
-eye
-
 
 
 
@@ -68,19 +48,9 @@ warrior
 
 
 
-死亡之眼
+泥绳妖
 
-eye
-predator
-
-
-
-
-
-
-伐楼拿
-
-asura
+slime
 warrior
 
 
@@ -88,49 +58,9 @@ warrior
 
 
 
-佣兵战士 乌利内伊尔
+幻魔
 
-norland
-warrior
-
-
-
-
-
-
-朋克
-
-norland
-gunner
-
-
-
-
-
-
-摩艾石像
-
-rock
-gunner
-
-
-
-
-
-
-不再迷茫的大羊
-
-sheep
-priest
-
-
-
-
-
-
-＜主教＞
-
-piece
+ghost
 wizard
 
 
@@ -138,10 +68,110 @@ wizard
 
 
 
-哈比女妖
+甲壳虫
 
-harpy
+beetle
+predator
 
+
+
+
+
+
+暴龙
+
+dinosaur
+predator
+
+
+
+
+
+
+＜士兵＞
+
+piece
+warrior
+
+
+
+
+
+
+牛头人
+
+minotaur
+warrior
+
+
+
+
+
+
+歌贡
+
+orc
+warrior
+
+
+
+
+
+
+『蜗牛（寄生）』
+
+snail
+tourist
+
+
+
+
+
+
+人狼 奥博科尔
+
+dog
+warrior
+
+
+
+
+
+
+尤瑞艾莉
+
+medusa
+warmage
+
+
+
+
+
+
+恶神威
+
+bear
+predator
+
+
+
+
+
+
+火蟹
+
+shell
+
+
+
+
+
+
+
+朱伊安剑斗士
+
+juere
+thief
 
 
 
@@ -158,10 +188,40 @@ wisp
 
 
 
-地精萨满
+蝎子
 
-goblin
-warmage
+spider
+
+
+
+
+
+
+
+骸骨狂战士
+
+skeleton
+warrior
+
+
+
+
+
+
+神偷
+
+juere
+thief
+
+
+
+
+
+
+块状怪
+
+drake
+
 
 
 
@@ -178,9 +238,19 @@ warrior
 
 
 
-棕熊 茨查苏塔恩
+『歌贡』 Lv50
 
-bear
+orc
+warrior
+
+
+
+
+
+
+食人蟹
+
+shell
 predator
 
 
@@ -188,9 +258,49 @@ predator
 
 
 
-火焰树
+林中女妖
 
 ent
+archer
+
+
+
+
+
+
+高等木乃伊
+
+zombie
+warrior
+
+
+
+
+
+
+猛犸
+
+largeanimal
+
+
+
+
+
+
+
+密多罗
+
+asura
+warrior
+
+
+
+
+
+
+触手蠕虫
+
+worm
 predator
 
 
@@ -198,120 +308,10 @@ predator
 
 
 
-冰结树
+＜皇后＞
 
-ent
-predator
-
-
-
-
-
-
-混沌之种
-
-spirit
-predator
-
-
-
-
-
-
-黑子教师
-
-ghost
-predator
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+piece
+wizard
 
 
 
