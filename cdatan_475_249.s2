@@ -8,69 +8,9 @@ warrior
 
 
 
-巴洛克的魔眼
+枪之精魂
 
-eye
-wizard
-
-
-
-
-
-
-龙人大剑
-
-lizardman
-claymore
-
-
-
-
-
-
-芳香虾蛄
-
-shell
-predator
-
-
-
-
-
-
-Ｇ立方体
-
-machine
-warrior
-
-
-
-
-
-
-卡玛佐兹
-
-bat
-predator
-
-
-
-
-
-
-黑暗入侵者
-
-bat
-warmage
-
-
-
-
-
-
-Ω赫拉克勒斯
-
-beetle
+spirit
 gunner
 
 
@@ -78,49 +18,49 @@ gunner
 
 
 
-鬼天竺鼠
+魔法精魂
 
-rat
-tourist
-
-
-
-
-
-
-刺猬
-
-rat
+spirit
+wizard
 
 
 
 
 
 
+魔法精魂
 
-龙人
-
-lizardman
-warrior
-
-
-
-
-
-
-小恶魔
-
-imp
+spirit
+wizard
 
 
 
 
 
 
+魔法精魂
 
-火焰猎犬
+spirit
+wizard
 
-dog
+
+
+
+
+
+枪之精魂
+
+spirit
+gunner
+
+
+
+
+
+
+战争精魂
+
+spirit
 predator
 
 
@@ -128,9 +68,19 @@ predator
 
 
 
-死亡之眼
+枪之精魂
 
-eye
+spirit
+gunner
+
+
+
+
+
+
+战争精魂
+
+spirit
 predator
 
 
@@ -138,9 +88,39 @@ predator
 
 
 
-巨噬蠕虫
+枪之精魂
 
-worm
+spirit
+gunner
+
+
+
+
+
+
+布丁精灵
+
+spirit
+thief
+
+
+
+
+
+
+枪之精魂
+
+spirit
+gunner
+
+
+
+
+
+
+战争精魂
+
+spirit
 predator
 
 
@@ -148,20 +128,40 @@ predator
 
 
 
-艾莱亚族战士
+枪之精魂
 
-elea
-warrior
-
-
+spirit
+gunner
 
 
 
 
-艾莱亚族战士
 
-elea
-warrior
+
+魔法精魂
+
+spirit
+wizard
+
+
+
+
+
+
+魔法精魂
+
+spirit
+wizard
+
+
+
+
+
+
+布丁精灵
+
+spirit
+thief
 
 
 
