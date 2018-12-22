@@ -1,4 +1,24 @@
-曼德拉草
+不死舞者
+
+zombie
+pianist
+
+
+舞者
+
+
+
+蓝牛
+
+minotaur
+predator
+
+
+
+
+
+
+万圣节噩梦
 
 mandrake
 
@@ -8,19 +28,29 @@ mandrake
 
 
 
-曼德拉草
+阴影
 
-mandrake
-
-
-
+ghost
+warrior
 
 
 
 
-野生马 伊尔米茨库
 
-horse
+
+白兔神
+
+rabbit
+wizard
+
+
+
+
+
+
+残忍警铃
+
+metal
 predator
 
 
@@ -28,149 +58,19 @@ predator
 
 
 
-野生马 乌拉吉苏
-
-horse
-predator
-
-
-
-
-
-
-野生马 齐尤萨恩达尔
-
-horse
-predator
-
-
-
-
-
-
-野生马 格恩达
-
-horse
-predator
-
-
-
-
-
-
-野生马 哈查苏塔恩
-
-horse
-predator
-
-
-
-
-
-
-野生马 齐博苏
-
-horse
-predator
-
-
-
-
-
-
-野生马 西伊
-
-horse
-predator
-
-
-
-
-
-
-野生马 乌拉诺尔德
-
-horse
-predator
-
-
-
-
-
-
-劣马 吉尔德卡尔
-
-horse
-
-
-
-
-
-
-
-野生马 特德巴尔德
-
-horse
-predator
-
-
-
-
-
-
-野生马 罗西奥兹
-
-horse
-predator
-
-
-
-
-
-
-寄居蟹
-
-shell
-predator
-
-
-
-
-
-
-野生马 歌迪伊苏
-
-horse
-predator
-
-
-
-
-
-
-野生马 德米苏
-
-horse
-predator
-
-
-
-
-
-
-野生马 阿弗弗茨库
-
-horse
-predator
-
-
-
-
-
-
-狗 艾利苏兹苏
+闪烈之银狼
 
 dog
+warrior
+
+
+
+
+
+
+暴食海狮
+
+largeanimal
 predator
 
 
@@ -178,29 +78,69 @@ predator
 
 
 
-劣马 莱迪恩
+＜大师＞
 
-horse
-
-
-
-
-
-
-
-劣马 弗伊莱茨塔
-
-horse
+piece
+warmage
 
 
 
 
 
 
+狗头人
 
-野生马 科布纳尔库
+kobolt
+warrior
 
-horse
+
+
+
+
+
+云龙
+
+wisp
+archer
+
+
+
+
+
+
+收割者
+
+lich
+farmer
+
+
+
+
+
+
+耶鲁士机械兵
+
+yerles
+gunner
+
+
+
+
+
+
+佣兵战士 萨玛鲁苏
+
+norland
+warrior
+
+
+
+
+
+
+火焰树
+
+ent
 predator
 
 
@@ -208,9 +148,29 @@ predator
 
 
 
-野生马 塔奥鲁苏
+刀锋机兵
 
-horse
+machine
+
+
+
+
+
+
+
+阿特拉斯
+
+god
+warrior
+
+
+
+
+
+
+龙之宠哈比
+
+harpy
 predator
 
 
@@ -218,9 +178,19 @@ predator
 
 
 
-野生马 摩纳坦恩
+金铃
 
-horse
+metal
+
+
+
+
+
+
+
+僵尸猫
+
+zombie
 predator
 
 
@@ -228,9 +198,9 @@ predator
 
 
 
-野生马 齐由诺茨库
+海蜗牛
 
-horse
+snail
 predator
 
 
@@ -238,9 +208,29 @@ predator
 
 
 
-野生马 达伊哈尔特
+半人马 西由莱茨塔
 
 horse
+archer
+
+
+
+
+
+
+朱伊安剑斗士
+
+juere
+thief
+
+
+
+
+
+
+阿特拉克·纳克亚
+
+spider
 predator
 
 
@@ -248,9 +238,429 @@ predator
 
 
 
-野生马 伊西尤内科
+不再迷茫的大羊
 
-horse
+sheep
+priest
+
+
+
+
+
+
+蒸汽机龙
+
+dragon
+gunner
+
+
+
+
+
+
+兽人战士
+
+orc
+warrior
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+兽人
+
+orc
+
+
+
+
+
+
+
+鸟人射手
+
+harpy
+archer
+
+
+
+
+
+
+＜主教＞
+
+piece
+wizard
+
+
+
+
+
+
+混沌蛇龙
+
+spirit
+warmage
+
+
+
+
+
+
+远古调查兵
+
+skeleton
+wizard
+
+
+
+
+
+
+朱伊安外法强化兵
+
+juere
+claymore
+
+
+
+
+
+
+地精萨满
+
+goblin
+warmage
+
+
+
+
+
+
+金铃
+
+metal
+
+
+
+
+
+
+
+歌贡
+
+orc
+warrior
+
+
+
+
+
+
+宁芙
+
+ghost
+
+
+
+
+
+
+
+银猫 弗艾巴
+
+cat
+
+
+
+
+
+
+
+银猫 卡恩查查苏
+
+cat
+
+
+
+
+
+
+
+大角星
+
+bear
+warmage
+
+
+
+
+
+
+鸡蛇
+
+bird
+wizard
+
+
+
+
+
+
+暴君塔兰斯特
+
+god
+warmage
+
+
+
+
+
+
+蝎王
+
+spider
+
+
+
+
+
+
+
+史莱姆
+
+slime
 predator
 
 
@@ -258,29 +668,29 @@ predator
 
 
 
-野生马 吉皮恩
+阴影
 
-horse
-predator
+ghost
+warrior
 
 
 
 
 
 
-野生马 帕巴尔德
+军团死灵巫师
 
-horse
-predator
+ghost
+warmage
 
 
 
 
 
 
-劣马 尤迪苏塔恩
+火焰蜈蚣
 
-horse
+worm
 
 
 
@@ -288,419 +698,9 @@ horse
 
 
 
-野生马 索摩弗
+红胡蜂
 
-horse
-predator
-
-
-
-
-
-
-野生马 弗莱奥巴摩苏
-
-horse
-predator
-
-
-
-
-
-
-野生马 基查纳苏
-
-horse
-predator
-
-
-
-
-
-
-野生马 伊奥米苏
-
-horse
-predator
-
-
-
-
-
-
-野生马 奥迪伊赫摩苏
-
-horse
-predator
-
-
-
-
-
-
-劣马 玛莱伊
-
-horse
-
-
-
-
-
-
-
-野生马 阿吉拉苏
-
-horse
-predator
-
-
-
-
-
-
-野生马 弗利奥茨卡
-
-horse
-predator
-
-
-
-
-
-
-野生马 艾德达尔库
-
-horse
-predator
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+wasp
 
 
 
