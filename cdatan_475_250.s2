@@ -1,36 +1,26 @@
-骸骨战士
+快可灵弓箭手
 
-skeleton
-warrior
-
-
-
-
-
-
-巴洛克的魔眼
-
-eye
-wizard
+quickling
+archer
 
 
 
 
 
 
-龙人大剑
+荒神树
 
-lizardman
-claymore
-
-
+ent
+priest
 
 
 
 
-芳香虾蛄
 
-shell
+
+暴君龙
+
+dragon
 predator
 
 
@@ -38,10 +28,360 @@ predator
 
 
 
-Ｇ立方体
+暴龙
+
+dinosaur
+predator
+
+
+
+
+
+
+蓝色摩艾石像
+
+rock
+gunner
+
+
+
+
+
+
+战斗甲壳虫
+
+wasp
+predator
+
+
+
+
+
+
+战斗甲壳虫
+
+wasp
+predator
+
+
+
+
+
+
+战斗甲壳虫
+
+wasp
+predator
+
+
+
+
+
+
+战斗甲壳虫
+
+wasp
+predator
+
+
+
+
+
+
+战斗甲壳虫
+
+wasp
+predator
+
+
+
+
+
+
+战斗甲壳虫
+
+wasp
+predator
+
+
+
+
+
+
+战斗甲壳虫
+
+wasp
+predator
+
+
+
+
+
+
+战斗甲壳虫
+
+wasp
+predator
+
+
+
+
+
+
+战斗甲壳虫
+
+wasp
+predator
+
+
+
+
+
+
+战斗甲壳虫
+
+wasp
+predator
+
+
+
+
+
+
+战斗甲壳虫
+
+wasp
+predator
+
+
+
+
+
+
+战斗甲壳虫
+
+wasp
+predator
+
+
+
+
+
+
+战斗甲壳虫
+
+wasp
+predator
+
+
+
+
+
+
+战斗甲壳虫
+
+wasp
+predator
+
+
+
+
+
+
+战斗甲壳虫
+
+wasp
+predator
+
+
+
+
+
+
+地狱
+
+lich
+warmage
+
+
+
+
+
+
+法老的诅咒
+
+zombie
+predator
+
+
+
+
+
+
+灰熊
+
+bear
+predator
+
+
+
+
+
+
+朱伊安步兵
+
+juere
+warrior
+
+
+
+
+
+
+基卡斯蟒蛇
+
+snake
+predator
+
+
+
+
+
+
+猫 弗安
+
+cat
+predator
+
+
+
+
+
+
+机械斯拉
 
 machine
-warrior
+predator
+
+
+
+
+
+
+大角星
+
+bear
+warmage
+
+
+
+
+
+
+伊利斯
+
+rabbit
+priest
+
+
+
+
+
+
+投雷战士
+
+zanan
+predator
+
+
+
+
+
+
+怨魂
+
+ghost
+
+
+
+
+
+
+
+蓝色摩艾石像
+
+rock
+gunner
+
+
+
+
+
+
+炽天使 库拉茨塔
+
+cupid
+archer
+
+
+
+
+
+
+针千本鼠
+
+rat
+wizard
+
+
+
+
+
+
+芋虫狙击手
+
+beetle
+gunner
+
+
+
+
+
+
+魔歇拉·阿琴
+
+bacteria
+wizard
+
+
+
+
+
+
+魔王
+
+imp
+warmage
+
+
+
+
+
+
+突击红蜻蜓
+
+beetle
+predator
+
+
+
+
+
+
+耶鲁士防卫系统
+
+machine
+gunner
 
 
 
@@ -58,69 +398,9 @@ predator
 
 
 
-黑暗入侵者
+卡玛佐兹
 
 bat
-warmage
-
-
-
-
-
-
-Ω赫拉克勒斯
-
-beetle
-gunner
-
-
-
-
-
-
-鬼天竺鼠
-
-rat
-tourist
-
-
-
-
-
-
-刺猬
-
-rat
-
-
-
-
-
-
-
-龙人
-
-lizardman
-warrior
-
-
-
-
-
-
-小恶魔
-
-imp
-
-
-
-
-
-
-
-火焰猎犬
-
-dog
 predator
 
 
@@ -128,9 +408,9 @@ predator
 
 
 
-死亡之眼
+卡玛佐兹
 
-eye
+bat
 predator
 
 
@@ -138,9 +418,9 @@ predator
 
 
 
-巨噬蠕虫
+卡玛佐兹
 
-worm
+bat
 predator
 
 
@@ -148,289 +428,9 @@ predator
 
 
 
-艾莱亚族战士
+卡玛佐兹
 
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族战士
-
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族战士
-
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族魔法师
-
-elea
-wizard
-
-
-
-
-
-
-艾莱亚族战士
-
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族魔法师
-
-elea
-wizard
-
-
-
-
-
-
-艾莱亚族魔法师
-
-elea
-wizard
-
-
-
-
-
-
-艾莱亚族战士
-
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族魔法师
-
-elea
-wizard
-
-
-
-
-
-
-艾莱亚族战士
-
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族战士
-
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族魔法师
-
-elea
-wizard
-
-
-
-
-
-
-艾莱亚族战士
-
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族战士
-
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族魔法师
-
-elea
-wizard
-
-
-
-
-
-
-艾莱亚族魔法师
-
-elea
-wizard
-
-
-
-
-
-
-艾莱亚族魔法师
-
-elea
-wizard
-
-
-
-
-
-
-艾莱亚族战士
-
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族战士
-
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族战士
-
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族魔法师
-
-elea
-wizard
-
-
-
-
-
-
-艾莱亚族魔法师
-
-elea
-wizard
-
-
-
-
-
-
-艾莱亚族魔法师
-
-elea
-wizard
-
-
-
-
-
-
-艾莱亚族战士
-
-elea
-warrior
-
-
-
-
-
-
-艾莱亚族魔法师
-
-elea
-wizard
-
-
-
-
-
-
-放电云
-
-wisp
-
-
-
-
-
-
-
-大姐姐
-
-mutant
-thief
-
-
-
-
-
-
-古代小鬼
-
-yeek
-warrior
-
-
-
-
-
-
-鲸头鹳先生
-
-bird
+bat
 predator
 
 
@@ -438,260 +438,260 @@ predator
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+『卡玛佐兹』
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+卡玛佐兹
 
+bat
+predator
 
 
 
 
 
 
+沉睡的巨人
 
+giant
+predator
 
 
 
 
 
 
+迦楼罗
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+harpy
+archer
 
 
 
